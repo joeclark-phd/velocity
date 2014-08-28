@@ -8,10 +8,11 @@ This project is based on the Financial Services case study for CIS 355.
 
 Team Members
 ==============================================================
-Manoj Panikkar
-Christopher Frame
-Schuyler Mortimer
-
+----------------
+|Manoj Panikkar|
+|Christopher Frame|
+|Schuyler Mortimer|
+-------------------
 Project Name
 ==============================================================
 Velocity
