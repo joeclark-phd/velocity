@@ -1,11 +1,27 @@
-velocity
-========
+Class
+==============================================================
+CIS 355: Business Data Warehouses and Dimensional Modeling
 
+Team Members
+==============================================================
+Manoj Panikkar
+Christopher Frame
+Schuyler Mortimer
 
-repo for financial services project
+Project Name
+==============================================================
+Velocity
 
-Manoj is awesome...yes sir
-=======
-
-
-THis is Chris (not Chris) making a change
+Project Topic
+==============================================================
+Chapter 10: Financial Services
+  * Banking Case Study and Business Matrix
+  * Dimension Triage to Avoid Too Few Dimensions
+      * Household Dimension
+      * Multivalued Dimensions and Weighting Factors
+      * Mini-Dimensions Revisited
+      * Adding a Mini-Dimension to a Bridge Table
+      * Dynamic Value Banding of Facts
+  * Supertype and Subtype Schemas for Heterogeneous Products
+      * Supertype and Subtype Products with Common Facts
+  * Hot Swappable Dimensions
