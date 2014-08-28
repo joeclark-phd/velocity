@@ -2,6 +2,10 @@ Class
 ==============================================================
 CIS 355: Business Data Warehouses and Dimensional Modeling
 
+Purpose
+==============================================================
+This project is based on the Financial Services case study for CIS 355.
+
 Team Members
 ==============================================================
 Manoj Panikkar
