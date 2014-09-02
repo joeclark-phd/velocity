@@ -1,3 +1,7 @@
+Project Name
+==============================================================
+Velocity
+
 Class
 ==============================================================
 CIS 355: Business Data Warehouses and Dimensional Modeling
@@ -12,9 +16,7 @@ Manoj Panikkar,
 Christopher Frame,
 Schuyler Mortimer
 
-Project Name
-==============================================================
-Velocity
+
 
 Project Topic
 ==============================================================
