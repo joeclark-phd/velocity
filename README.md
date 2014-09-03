@@ -38,4 +38,10 @@ Chapter 10: Financial Services
   * Supertype and Subtype Schemas for Heterogeneous Products
       * Supertype and Subtype Products with Common Facts
   * Hot Swappable Dimensions
-	
+
+Chapter 10 Summary
+==============================================================
+We began this chapter by discussing the situation in which a fact table has too few dimensions and provided suggestions for ferreting out additional dimensions using a triage process.  Approaches for handling the often complex relationship between accounts, customers, and households were described.  We also discussed the use of multiple mini-dimensions in a single fact table, which is fairly common in financial service schemas.
+
+We illustrated a technique for clustering numeric facts into arbitrary value bands for reporting purposes through the use of a separate band table.  Finally, we provided recommendations for any organization that offers heterogeneous products to the same set of customers.  In this case, we create a supertype fact table that contains performance metrics that are common across all lines of business.  The companion dimension table contains rows for the complete account portfolio, but the attributes are limited to those that are applicable across all accounts.  Multiple subtype schemas, one of each line of business, complement the supertype schema with account-specific facts and attributes. 
+
